@@ -1,0 +1,8 @@
+.vscode/
+.settings/
+.idea/
+target/
+jars/
+.whitesource
+.idea/
+.classpath

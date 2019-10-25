@@ -1,0 +1,6 @@
+name: ${name}
+version: Build ${version}
+author: TechToolbox (@nkomarn)
+main: xyz.nkomarn.${name}.${name}
+description: Makes your own chat messages more visible!
+api-version: 1.13
